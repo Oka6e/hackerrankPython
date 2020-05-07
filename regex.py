@@ -7,9 +7,11 @@ import re
 import sys
 
 def appendUserName(firstNameEmailID):
-    pattern = '^[a-z]{1,20}+\s+[a-z]{1,50}+@gmail\.com$'
+    emailPattern = '[a-z]{1,50}@gmail\.com'
+    namePattern = '[a-z]{1,20}'
 
-    if re.search(pattern,emailID):
+
+    if re.search(emailPattern,emailID) and re.search(namePattern,firstName):
         userList.append(firstName)
 
 if __name__ == '__main__':
