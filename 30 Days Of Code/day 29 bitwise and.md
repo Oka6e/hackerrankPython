@@ -37,4 +37,4 @@ For each test case, print the maximum possible value of A&B on a new line.
 4
 0
 ```
-[###My Solution](https://github.com/Oka6e/hackerrankPython/blob/master/30%20Days%20Of%20Code/day%2029%20bitwise%20and)
+[###My Solution](https://github.com/Oka6e/hackerrankPython/blob/902a38b4d6ad21ad041c7972415dae07a872daa5/30%20Days%20Of%20Code/day%2029%20bitwise%20and.py)
