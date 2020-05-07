@@ -6,5 +6,5 @@ My practice problem answers for HackerRank.
 
 https://www.hackerrank.com/frankquocho214
 
-- **[30 Days of Code](30-Days-of-Code)**
-  * [Day 29: Bitwise AND](30-Days-of-Code/day-29-bitwise-and)
+- **[30 Days of Code](30-Days-Of-Code)**
+  * [Day 29: Bitwise AND](30-Days-Of-Code/day-29-bitwise-and)
