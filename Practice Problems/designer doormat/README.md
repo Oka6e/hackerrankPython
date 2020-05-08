@@ -62,4 +62,4 @@ Output the design pattern.
 ---------.|..|..|.---------
 ------------.|.------------
 ```
-[My Answer]()
+[My Answer](https://github.com/Oka6e/hackerrankPython/blob/80675e8574cf2ba1d260e0e76cb630f1f96b9480/Practice%20Problems/designer%20doormat/answer.py)
