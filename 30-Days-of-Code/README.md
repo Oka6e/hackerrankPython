@@ -37,4 +37,4 @@ For each test case, print the maximum possible value of A&B on a new line.
 4
 0
 ```
-##[My Solution](30-Days-of-Code/answer.py)
+[**My Solution**](30-Days-of-Code/answer.py)
