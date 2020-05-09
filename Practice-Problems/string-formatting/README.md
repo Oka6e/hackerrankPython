@@ -21,13 +21,13 @@ A single integer denoting n.
 Print n lines where each line i (in the range 1 <= i <= n) contains the respective decimal, octal, capitalized hexadecimal, and binary values of i. 
 Each printed value must be formatted to the width of the binary value of n.
 
-**Sample Input 0**
+**Sample Input**
 
 ```
 17
 ```
 
-**Sample Output 0**
+**Sample Output**
 
 ```
     1     1     1     1
