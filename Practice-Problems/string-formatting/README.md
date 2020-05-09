@@ -48,4 +48,4 @@ Each printed value must be formatted to the width of the binary value of n.
    16    20    10 10000
    17    21    11 10001  
 ```
-[My Solution](answer.py)
+[**My Solution**](answer.py)
