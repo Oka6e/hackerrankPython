@@ -7,4 +7,6 @@ My practice problem answers for HackerRank.
 https://www.hackerrank.com/frankquocho214
 
 - **[30 Days of Code](30-Days-of-Code)**
-  * [Day 29: Bitwise AND](30-Days-of-Code/day-29-bitwise-and)
+  * [Day 29: Bitwise AND](30-Days-of-Code/day-29-bitwise-and)-
+- **[Python Practice Problems](Practice-Problems)**
+  * [Designer Doormat](Practice-Problems/designer-doormat)
