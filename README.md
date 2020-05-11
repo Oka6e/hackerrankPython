@@ -11,4 +11,4 @@ https://www.hackerrank.com/frankquocho214
 - **[Python Practice Problems](Practice-Problems)**
   * [Designer Doormat](Practice-Problems/designer-doormat)
   * [String Formatting](Practice-Problems/string-formatting)
-  * [Symmetric difference](Practice-Problems/symmetric-difference)
+  * [Symmetric Difference](Practice-Problems/symmetric-difference)
