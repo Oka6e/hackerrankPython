@@ -10,6 +10,6 @@ https://www.hackerrank.com/frankquocho214
   * [Day 29: Bitwise AND](30-Days-of-Code/day-29-bitwise-and)
 - **[Python Practice Problems](Practice-Problems)**
   * [Designer Doormat](Practice-Problems/designer-doormat)
-  * [No Idea!](Practice-Problem/designer-doormat)
+  * [No Idea!](Practice-Problems/no-idea!)
   * [String Formatting](Practice-Problems/string-formatting)
   * [Symmetric Difference](Practice-Problems/symmetric-difference)
