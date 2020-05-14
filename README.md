@@ -12,5 +12,6 @@ https://www.hackerrank.com/frankquocho214
   * [Alphabet Rangoli](Practice-Problems/alphabet-rangoli)
   * [Designer Doormat](Practice-Problems/designer-doormat)
   * [No Idea!](Practice-Problems/no-idea!)
+  * [Set .add()](Practice-Problems/set-.add())
   * [String Formatting](Practice-Problems/string-formatting)
   * [Symmetric Difference](Practice-Problems/symmetric-difference)
