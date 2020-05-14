@@ -9,8 +9,8 @@ https://www.hackerrank.com/frankquocho214
 - **[30 Days of Code](30-Days-of-Code)**
   * [Day 29: Bitwise AND](30-Days-of-Code/day-29-bitwise-and)
 - **[Python Practice Problems](Practice-Problems)**
+  * [Alphabet Rangoli](Practice-Problems/alphabet-rangoli)
   * [Designer Doormat](Practice-Problems/designer-doormat)
   * [No Idea!](Practice-Problems/no-idea!)
   * [String Formatting](Practice-Problems/string-formatting)
   * [Symmetric Difference](Practice-Problems/symmetric-difference)
-  * [Alphabet Rangoli](Practice-Problems/alphabet-rangoli)
