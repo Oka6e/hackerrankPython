@@ -10,6 +10,7 @@ https://www.hackerrank.com/frankquocho214
   * [Day 29: Bitwise AND](30-Days-of-Code/day-29-bitwise-and)
 - **[Python Practice Problems](Practice-Problems)**
   * [Alphabet Rangoli](Practice-Problems/alphabet-rangoli)
+  * [Capitalize!](Practice-Problems/capitalize!)
   * [Designer Doormat](Practice-Problems/designer-doormat)
   * [No Idea!](Practice-Problems/no-idea!)
   * [Set .add()](Practice-Problems/set-.add())
