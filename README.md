@@ -12,6 +12,7 @@ https://www.hackerrank.com/frankquocho214
   * [Alphabet Rangoli](Practice-Problems/alphabet-rangoli)
   * [Capitalize!](Practice-Problems/capitalize!)
   * [Designer Doormat](Practice-Problems/designer-doormat)
+  * [Find the Runner-Up Score!](Practice_Problems/find-the-runner-up-score!)
   * [No Idea!](Practice-Problems/no-idea!)
   * [Set .add()](Practice-Problems/set-.add())
   * [String Formatting](Practice-Problems/string-formatting)
