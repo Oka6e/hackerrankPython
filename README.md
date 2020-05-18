@@ -12,7 +12,7 @@ https://www.hackerrank.com/frankquocho214
   * [Set .discard(), .remove() & .pop()](Practice-Problems/set-.discard(),-.remove()-&-.pop())
   * [Alphabet Rangoli](Practice-Problems/alphabet-rangoli)
   * [Capitalize!](Practice-Problems/capitalize!)
-  * [Designer Doormat](Pract* [Capitalize!](Practice-Problems/capitalize!)ice-Problems/designer-doormat)
+  * [Designer Doormat](Practice-Problems/designer-doormat)
   * [Find the Runner-Up Score!](Practice_Problems/find-the-runner-up-score!)
   * [No Idea!](Practice-Problems/no-idea!)
   * [Set .add()](Practice-Problems/set-.add())
