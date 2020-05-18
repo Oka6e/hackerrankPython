@@ -9,7 +9,7 @@ https://www.hackerrank.com/frankquocho214
 - **[30 Days of Code](30-Days-of-Code)**
   * [Day 29: Bitwise AND](30-Days-of-Code/day-29-bitwise-and)
 - **[Python Practice Problems](Practice-Problems)**
-  * [.discard(), .remove() & .pop())](Practice-Problems/discard-remove-pop)
+  * [Set .discard(), .remove() & .pop()](Practice-Problems/set-.discard(),-.remove()-&-.pop())
   * [Alphabet Rangoli](Practice-Problems/alphabet-rangoli)
   * [Capitalize!](Practice-Problems/capitalize!)
   * [Designer Doormat](Pract* [Capitalize!](Practice-Problems/capitalize!)ice-Problems/designer-doormat)
