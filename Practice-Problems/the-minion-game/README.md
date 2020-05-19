@@ -24,7 +24,7 @@ Here, ANA occurs twice in BANANA. Hence, Kevin will get 2 Points.
 
 For better understanding, see the image below:
 
-[[/images/banana.png]]
+![](/images/banana.png)
 
 Your task is to determine the winner of the game and their score.
 
