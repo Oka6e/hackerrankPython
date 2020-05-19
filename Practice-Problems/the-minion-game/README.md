@@ -24,7 +24,7 @@ Here, ANA occurs twice in BANANA. Hence, Kevin will get 2 Points.
 
 For better understanding, see the image below:
 
-
+[[/images/banana.png]]
 
 Your task is to determine the winner of the game and their score.
 
@@ -54,3 +54,5 @@ Stuart 12
 
 **Note** :
 **Vowels are only defined as _AEIOU_. In this problem, _Y_ is not considered a vowel.**
+
+[**My Solution**](answer.py)
