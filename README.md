@@ -18,3 +18,4 @@ https://www.hackerrank.com/frankquocho214
   * [Set .discard(), .remove() & .pop()](Practice-Problems/set-discard-remove-pop)
   * [String Formatting](Practice-Problems/string-formatting)
   * [Symmetric Difference](Practice-Problems/symmetric-difference)
+  * [The Minion Game](Practice-Problems/the-minion-game)
