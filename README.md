@@ -13,6 +13,7 @@ https://www.hackerrank.com/frankquocho214
   * [Capitalize!](Practice-Problems/capitalize)
   * [Designer Doormat](Practice-Problems/designer-doormat)
   * [Find the Runner-Up Score!](Practice-Problems/find-the-runner-up-score)
+  * [Lists](Practice-Problems/lists)
   * [No Idea!](Practice-Problems/no-idea)
   * [Set .add()](Practice-Problems/set-add)
   * [Set .discard(), .remove() & .pop()](Practice-Problems/set-discard-remove-pop)
