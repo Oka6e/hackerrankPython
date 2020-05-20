@@ -20,3 +20,4 @@ https://www.hackerrank.com/frankquocho214
   * [String Formatting](Practice-Problems/string-formatting)
   * [Symmetric Difference](Practice-Problems/symmetric-difference)
   * [The Minion Game](Practice-Problems/the-minion-game)
+  * [Tuples](Practice-Problems/tuples)
