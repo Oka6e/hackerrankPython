@@ -6,10 +6,8 @@ My practice problem answers for HackerRank.
 
 https://www.hackerrank.com/frankquocho214
 
-<<<<<<< HEAD
 - **[30 Days of Code](Practice-Problems)**
   * [Two Sum](Pratice-Problems/two-sum)
-=======
 - **[30 Days of Code](30-Days-of-Code)**
   * [Day 29: Bitwise AND](30-Days-of-Code/day-29-bitwise-and)
 - **[Python Practice Problems](Practice-Problems)**
@@ -24,4 +22,3 @@ https://www.hackerrank.com/frankquocho214
   * [String Formatting](Practice-Problems/string-formatting)
   * [Symmetric Difference](Practice-Problems/symmetric-difference)
   * [The Minion Game](Practice-Problems/the-minion-game)
->>>>>>> parent of 38076d5... Added "Tuples" Problem
