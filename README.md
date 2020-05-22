@@ -6,8 +6,6 @@ My practice problem answers for HackerRank.
 
 https://www.hackerrank.com/frankquocho214
 
-- **[30 Days of Code](Practice-Problems)**
-  * [Two Sum](Pratice-Problems/two-sum)
 - **[30 Days of Code](30-Days-of-Code)**
   * [Day 29: Bitwise AND](30-Days-of-Code/day-29-bitwise-and)
 - **[Python Practice Problems](Practice-Problems)**
