@@ -21,6 +21,8 @@ https://www.hackerrank.com/frankquocho214
   * [String Formatting](Practice-Problems/string-formatting)
   * [Symmetric Difference](Practice-Problems/symmetric-difference)
   * [The Minion Game](Practice-Problems/the-minion-game)
+  - **[Itertools](python/itertools)**
+      * [itertools.product()](python/itertools/product)
   - **[Math](python/math)**
       * [Find Angle MBC](python/math/find-angle-mbc)
       * [Polar Coordinates](python/math/polar-coordinates)
