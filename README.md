@@ -21,6 +21,8 @@ https://www.hackerrank.com/frankquocho214
   * [String Formatting](Practice-Problems/string-formatting)
   * [Symmetric Difference](Practice-Problems/symmetric-difference)
   * [The Minion Game](Practice-Problems/the-minion-game)
+  - **[Collections](python/collections)**
+      * [collections.Counter()](python/collections/counter)
   - **[Itertools](python/itertools)**
       * [itertools.product()](python/itertools/product)
   - **[Math](python/math)**
