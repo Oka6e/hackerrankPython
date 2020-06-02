@@ -23,6 +23,7 @@ https://www.hackerrank.com/frankquocho214
   * [The Minion Game](Practice-Problems/the-minion-game)
   - **[Collections](python/collections)**
       * [collections.Counter()](python/collections/counter)
+      * [DefaultDict Tutorial](python/collections/defaultdict)
   - **[Itertools](python/itertools)**
       * [itertools.product()](python/itertools/product)
   - **[Math](python/math)**
