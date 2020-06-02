@@ -25,8 +25,8 @@ https://www.hackerrank.com/frankquocho214
       * [collections.Counter()](python/collections/counter)
       * [DefaultDict Tutorial](python/collections/defaultdict)
   - **[Itertools](python/itertools)**
-      * [itertools.product()](python/itertools/product)
       * [itertools.permutations()](python/itertools.permutations)
+      * [itertools.product()](python/itertools/product)
   - **[Math](python/math)**
       * [Find Angle MBC](python/math/find-angle-mbc)
       * [Polar Coordinates](python/math/polar-coordinates)
