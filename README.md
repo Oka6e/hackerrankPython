@@ -26,7 +26,7 @@ https://www.hackerrank.com/frankquocho214
       * [DefaultDict Tutorial](python/collections/defaultdict)
   - **[Itertools](python/itertools)**
       * [itertools.combinations()](python/itertools/combinations)
-      * [itertools.combinations_with_replacement()](python/itertools/combinations-with-replacement)
+      * [itertools.combinations_with_replacement()](python/itertools/combinations/with-replacement)
       * [itertools.permutations()](python/itertools/permutations)
       * [itertools.product()](python/itertools/product)
   - **[Math](python/math)**
