@@ -24,6 +24,8 @@ https://www.hackerrank.com/frankquocho214
   - **[Collections](python/collections)**
       * [collections.Counter()](python/collections/counter)
       * [DefaultDict Tutorial](python/collections/defaultdict)
+  - **[Date and Time](python/day-time)**
+      * [Calendar Module](python/day-time/calendar-module)
   - **[Itertools](python/itertools)**
       * [itertools.combinations()](python/itertools/combinations)
       * [itertools.combinations_with_replacement()](python/itertools/combinations/with-replacement)
