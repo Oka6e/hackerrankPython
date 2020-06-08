@@ -26,6 +26,8 @@ https://www.hackerrank.com/frankquocho214
       * [DefaultDict Tutorial](python/collections/defaultdict)
   - **[Date and Time](python/day-time)**
       * [Calendar Module](python/day-time/calendar-module)
+  - **[Errors and Exceptions](python/errors-and-exceptions)**
+      * [Exceptions](python/errors-and-exceptions/exceptions)
   - **[Itertools](python/itertools)**
       * [Compress the String!](python/itertools/compress-the-string)
       * [itertools.combinations()](python/itertools/combinations)
