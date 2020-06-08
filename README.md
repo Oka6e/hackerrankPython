@@ -27,6 +27,7 @@ https://www.hackerrank.com/frankquocho214
   - **[Date and Time](python/day-time)**
       * [Calendar Module](python/day-time/calendar-module)
   - **[Itertools](python/itertools)**
+      * [Compress the String!](python/itertools/compress-the-string)
       * [itertools.combinations()](python/itertools/combinations)
       * [itertools.combinations_with_replacement()](python/itertools/combinations/with-replacement)
       * [itertools.permutations()](python/itertools/permutations)
