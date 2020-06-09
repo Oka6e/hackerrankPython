@@ -28,6 +28,7 @@ https://www.hackerrank.com/frankquocho214
       * [Calendar Module](python/day-time/calendar-module)
   - **[Errors and Exceptions](python/errors-and-exceptions)**
       * [Exceptions](python/errors-and-exceptions/exceptions)
+      * [Incorrect Regex](python/errors-and-exceptions/incorrect-regex)
   - **[Itertools](python/itertools)**
       * [Compress the String!](python/itertools/compress-the-string)
       * [itertools.combinations()](python/itertools/combinations)
