@@ -31,6 +31,7 @@ https://www.hackerrank.com/frankquocho214
       * [Incorrect Regex](python/errors-and-exceptions/incorrect-regex)
   - **[Itertools](python/itertools)**
       * [Compress the String!](python/itertools/compress-the-string)
+      * [Iterables and Iterators](python/itertools/iterables-and-iterators)
       * [itertools.combinations()](python/itertools/combinations)
       * [itertools.combinations_with_replacement()](python/itertools/combinations/with-replacement)
       * [itertools.permutations()](python/itertools/permutations)
