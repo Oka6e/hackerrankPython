@@ -22,7 +22,8 @@ https://www.hackerrank.com/frankquocho214
   * [Symmetric Difference](Practice-Problems/symmetric-difference)
   * [The Minion Game](Practice-Problems/the-minion-game)
   - **[Collections](python/collections)**
-      * [collections.Counter()](python/collections/counter)
+      * [Collections.Counter()](python/collections/counter)
+      * [Collections.namedtuple()](python/collections/namedtuple)
       * [DefaultDict Tutorial](python/collections/defaultdict)
   - **[Date and Time](python/day-time)**
       * [Calendar Module](python/day-time/calendar-module)
