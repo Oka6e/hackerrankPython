@@ -26,6 +26,7 @@ https://www.hackerrank.com/frankquocho214
       * [Collections.namedtuple()](python/collections/namedtuple)
       * [Collections.OrderedDict()](python/collections/ordereddict)
       * [DefaultDict Tutorial](python/collections/defaultdict)
+      * [Word Order](python/collections/word-order)
   - **[Date and Time](python/day-time)**
       * [Calendar Module](python/day-time/calendar-module)
   - **[Errors and Exceptions](python/errors-and-exceptions)**
