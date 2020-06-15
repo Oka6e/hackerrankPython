@@ -29,6 +29,7 @@ https://www.hackerrank.com/frankquocho214
       * [Word Order](python/collections/word-order)
   - **[Date and Time](python/day-time)**
       * [Calendar Module](python/day-time/calendar-module)
+      * [Time Delta](python/day-time/time-delta)
   - **[Errors and Exceptions](python/errors-and-exceptions)**
       * [Exceptions](python/errors-and-exceptions/exceptions)
       * [Incorrect Regex](python/errors-and-exceptions/incorrect-regex)
