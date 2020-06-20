@@ -23,6 +23,7 @@ https://www.hackerrank.com/frankquocho214
   * [The Minion Game](Practice-Problems/the-minion-game)
   - **[Collections](python/collections)**
       * [Collections.Counter()](python/collections/counter)
+      * [Collections.deque()](python/collections/deque)
       * [Collections.namedtuple()](python/collections/namedtuple)
       * [Collections.OrderedDict()](python/collections/ordereddict)
       * [DefaultDict Tutorial](python/collections/defaultdict)
