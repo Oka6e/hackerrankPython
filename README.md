@@ -44,3 +44,5 @@ https://www.hackerrank.com/frankquocho214
   - **[Math](python/math)**
       * [Find Angle MBC](python/math/find-angle-mbc)
       * [Polar Coordinates](python/math/polar-coordinates)
+  - **[Numpy](python/numpy)**
+      * [Arrays](python/numpy/arrays)
