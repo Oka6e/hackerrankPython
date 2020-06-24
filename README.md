@@ -22,11 +22,11 @@ https://www.hackerrank.com/frankquocho214
   * [Symmetric Difference](Practice-Problems/symmetric-difference)
   * [The Minion Game](Practice-Problems/the-minion-game)
   - **[Collections](python/collections)**
-      * [Collections.Company Logo](python/collections/company-logo)
       * [Collections.Counter()](python/collections/counter)
       * [Collections.deque()](python/collections/deque)
       * [Collections.namedtuple()](python/collections/namedtuple)
       * [Collections.OrderedDict()](python/collections/ordereddict)
+      * [Company Logo](python/collections/company-logo)
       * [DefaultDict Tutorial](python/collections/defaultdict)
       * [Piling Up!](python/collections/piling-up)
       * [Word Order](python/collections/word-order)
