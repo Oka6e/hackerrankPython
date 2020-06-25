@@ -21,6 +21,8 @@ https://www.hackerrank.com/frankquocho214
   * [String Formatting](Practice-Problems/string-formatting)
   * [Symmetric Difference](Practice-Problems/symmetric-difference)
   * [The Minion Game](Practice-Problems/the-minion-game)
+  - **[Classess](python/classes)**
+      * [Classes: Dealing with Complex Numbers](python/classes/dealing-with-complex-numbers)
   - **[Collections](python/collections)**
       * [Collections.Counter()](python/collections/counter)
       * [Collections.deque()](python/collections/deque)
