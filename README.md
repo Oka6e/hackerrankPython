@@ -51,3 +51,4 @@ https://www.hackerrank.com/frankquocho214
   - **[Numpy](python/numpy)**
       * [Arrays](python/numpy/arrays)
       * [Shape and Reshape](python/numpy/shape-and-reshape)
+      * [Transpose and Flatten](python/numpy/transpose-and-flatten)
