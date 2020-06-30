@@ -50,5 +50,6 @@ https://www.hackerrank.com/frankquocho214
       * [Polar Coordinates](python/math/polar-coordinates)
   - **[Numpy](python/numpy)**
       * [Arrays](python/numpy/arrays)
+      * [Concatenate](python/numpy/concatenate)
       * [Shape and Reshape](python/numpy/shape-and-reshape)
       * [Transpose and Flatten](python/numpy/transpose-and-flatten)
