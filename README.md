@@ -53,5 +53,6 @@ https://www.hackerrank.com/frankquocho214
       * [Concatenate](python/numpy/concatenate)
       * [Shape and Reshape](python/numpy/shape-and-reshape)
       * [Transpose and Flatten](python/numpy/transpose-and-flatten)
+      * [Zeros and Ones](python/numpy/zeros-and-ones)
   - **[Python Functionals](python/functionals)**
       * [Map and Lambda Function](python/functionals/map-and-lambda-function)
