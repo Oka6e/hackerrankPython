@@ -23,6 +23,7 @@ https://www.hackerrank.com/frankquocho214
   * [The Minion Game](Practice-Problems/the-minion-game)
   - **[Classess](python/classes)**
       * [Classes: Dealing with Complex Numbers](python/classes/dealing-with-complex-numbers)
+      * [Class 2 - Find the Torsional Angle](python/classes/find-the-torsional-angle)
   - **[Collections](python/collections)**
       * [Collections.Counter()](python/collections/counter)
       * [Collections.deque()](python/collections/deque)
