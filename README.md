@@ -51,6 +51,7 @@ https://www.hackerrank.com/frankquocho214
   - **[Numpy](python/numpy)**
       * [Arrays](python/numpy/arrays)
       * [Concatenate](python/numpy/concatenate)
+      * [Eye and Identity](python/numpy/eye-and-identity)
       * [Shape and Reshape](python/numpy/shape-and-reshape)
       * [Transpose and Flatten](python/numpy/transpose-and-flatten)
       * [Zeros and Ones](python/numpy/zeros-and-ones)
