@@ -59,3 +59,5 @@ https://www.hackerrank.com/frankquocho214
       * [Zeros and Ones](python/numpy/zeros-and-ones)
   - **[Python Functionals](python/functionals)**
       * [Map and Lambda Function](python/functionals/map-and-lambda-function)
+  - **[Sets](python/sets)**
+      * [Set .union() Operation](python/sets/union-operation)
