@@ -54,6 +54,7 @@ https://www.hackerrank.com/frankquocho214
       * [Array Mathematics](python/numpy/array-mathematics)
       * [Concatenate](python/numpy/concatenate)
       * [Eye and Identity](python/numpy/eye-and-identity)
+      * [Floor, Ceil and Rint](python/numpy/floor-ceil-and-rint)
       * [Shape and Reshape](python/numpy/shape-and-reshape)
       * [Transpose and Flatten](python/numpy/transpose-and-flatten)
       * [Zeros and Ones](python/numpy/zeros-and-ones)
