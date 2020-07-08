@@ -61,5 +61,6 @@ https://www.hackerrank.com/frankquocho214
   - **[Python Functionals](python/functionals)**
       * [Map and Lambda Function](python/functionals/map-and-lambda-function)
   - **[Sets](python/sets)**
+      * [Set .difference() Operation](python/sets/difference-operation)
       * [Set .intersection() Operation](python/sets/intersection-operation)
       * [Set .union() Operation](python/sets/union-operation)
