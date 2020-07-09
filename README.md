@@ -49,6 +49,7 @@ https://www.hackerrank.com/frankquocho214
   - **[Math](python/math)**
       * [Find Angle MBC](python/math/find-angle-mbc)
       * [Polar Coordinates](python/math/polar-coordinates)
+      * [Triangle Quest 2](python/math/triangle-quest-2)
   - **[Numpy](python/numpy)**
       * [Arrays](python/numpy/arrays)
       * [Array Mathematics](python/numpy/array-mathematics)
