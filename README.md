@@ -62,7 +62,7 @@ https://www.hackerrank.com/frankquocho214
       * [Set .difference() Operation](python/sets/difference-operation)
       * [Set .intersection() Operation](python/sets/intersection-operation)
       * [Set .union() Operation](python/sets/union-operation)
-      * [Symmetric Difference](Practice-Problems/sets/symmetric-difference)
+      * [Symmetric Difference](python/sets/symmetric-difference)
    - **[Strings](python/strings)**
-      * [String Formatting](Practice-Problems/strings/string-formatting)
-      * [The Minion Game](Practice-Problems/strings/the-minion-game)
+      * [String Formatting](python/strings/string-formatting)
+      * [The Minion Game](python/strings/the-minion-game)
