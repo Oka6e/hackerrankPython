@@ -61,6 +61,7 @@ https://www.hackerrank.com/frankquocho214
   - **[Sets](python/sets)**
       * [Set .difference() Operation](python/sets/difference-operation)
       * [Set .intersection() Operation](python/sets/intersection-operation)
+      * [Set .symmetric_difference() Operation](python/sets/symmetric-difference-operation)
       * [Set .union() Operation](python/sets/union-operation)
       * [Symmetric Difference](python/sets/symmetric-difference)
    - **[Strings](python/strings)**
