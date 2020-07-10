@@ -18,9 +18,6 @@ https://www.hackerrank.com/frankquocho214
   * [No Idea!](Practice-Problems/no-idea)
   * [Set .add()](Practice-Problems/set-add)
   * [Set .discard(), .remove() & .pop()](Practice-Problems/set-discard-remove-pop)
-  * [String Formatting](Practice-Problems/string-formatting)
-  * [Symmetric Difference](Practice-Problems/symmetric-difference)
-  * [The Minion Game](Practice-Problems/the-minion-game)
   - **[Classess](python/classes)**
       * [Classes: Dealing with Complex Numbers](python/classes/dealing-with-complex-numbers)
       * [Class 2 - Find the Torsional Angle](python/classes/find-the-torsional-angle)
@@ -65,3 +62,7 @@ https://www.hackerrank.com/frankquocho214
       * [Set .difference() Operation](python/sets/difference-operation)
       * [Set .intersection() Operation](python/sets/intersection-operation)
       * [Set .union() Operation](python/sets/union-operation)
+      * [Symmetric Difference](Practice-Problems/sets/symmetric-difference)
+   - **[Strings](python/strings)**
+      * [String Formatting](Practice-Problems/strings/string-formatting)
+      * [The Minion Game](Practice-Problems/strings/the-minion-game)
