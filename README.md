@@ -8,16 +8,10 @@ https://www.hackerrank.com/frankquocho214
 
 - **[30 Days of Code](30-Days-of-Code)**
   * [Day 29: Bitwise AND](30-Days-of-Code/day-29-bitwise-and)
-- **[Python Practice Problems](Practice-Problems)**
-  * [Alphabet Rangoli](Practice-Problems/alphabet-rangoli)
-  * [Capitalize!](Practice-Problems/capitalize)
-  * [Designer Doormat](Practice-Problems/designer-doormat)
-  * [Find the Runner-Up Score!](Practice-Problems/find-the-runner-up-score)
-  * [Lists](Practice-Problems/lists)
-  * [Merge the Tools!](Practice-Problems/merge-the-tools)
-  * [No Idea!](Practice-Problems/no-idea)
-  * [Set .add()](Practice-Problems/set-add)
-  * [Set .discard(), .remove() & .pop()](Practice-Problems/set-discard-remove-pop)
+- **[Python](python)**
+  - **[Basic Data Types](python/basic-data-types)**
+      * [Find the Runner-Up Score!](python/basic-data-types/find-the-runner-up-score)
+      * [Lists](python/basic-data-types/lists)
   - **[Classess](python/classes)**
       * [Classes: Dealing with Complex Numbers](python/classes/dealing-with-complex-numbers)
       * [Class 2 - Find the Torsional Angle](python/classes/find-the-torsional-angle)
@@ -59,12 +53,19 @@ https://www.hackerrank.com/frankquocho214
   - **[Python Functionals](python/functionals)**
       * [Map and Lambda Function](python/functionals/map-and-lambda-function)
   - **[Sets](python/sets)**
+      * [No Idea!](python/sets/no-idea)
+      * [Set .add()](python/sets/add)
       * [Set .difference() Operation](python/sets/difference-operation)
+      * [Set .discard(), .remove() & .pop()](python/sets/discard-remove-pop)
       * [Set .intersection() Operation](python/sets/intersection-operation)
       * [Set .symmetric_difference() Operation](python/sets/symmetric-difference-operation)
       * [Set .union() Operation](python/sets/union-operation)
       * [Set Mutations](python/sets/mutations)
       * [Symmetric Difference](python/sets/symmetric-difference)
    - **[Strings](python/strings)**
+      * [Alphabet Rangoli](python/strings/alphabet-rangoli)
+      * [Capitalize!](python/strings/capitalize)
+      * [Designer Doormat](python/strings/designer-doormat)
+      * [Merge the Tools!](python/strings/merge-the-tools)
       * [String Formatting](python/strings/string-formatting)
       * [The Minion Game](python/strings/the-minion-game)
