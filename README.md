@@ -63,6 +63,7 @@ https://www.hackerrank.com/frankquocho214
       * [Set .intersection() Operation](python/sets/intersection-operation)
       * [Set .symmetric_difference() Operation](python/sets/symmetric-difference-operation)
       * [Set .union() Operation](python/sets/union-operation)
+      * [Set Mutations](python/sets/mutations)
       * [Symmetric Difference](python/sets/symmetric-difference)
    - **[Strings](python/strings)**
       * [String Formatting](python/strings/string-formatting)
