@@ -40,6 +40,7 @@ https://www.hackerrank.com/frankquocho214
       * [itertools.product()](python/itertools/product)
   - **[Math](python/math)**
       * [Find Angle MBC](python/math/find-angle-mbc)
+      * [Mod Divmod](python/math/mod-divmod)
       * [Polar Coordinates](python/math/polar-coordinates)
       * [Triangle Quest 2](python/math/triangle-quest-2)
   - **[Numpy](python/numpy)**
