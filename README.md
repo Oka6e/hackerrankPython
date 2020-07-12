@@ -42,6 +42,7 @@ https://www.hackerrank.com/frankquocho214
       * [Find Angle MBC](python/math/find-angle-mbc)
       * [Mod Divmod](python/math/mod-divmod)
       * [Polar Coordinates](python/math/polar-coordinates)
+      * [Power - Mod Power](python/math/power-mod-power)
       * [Triangle Quest 2](python/math/triangle-quest-2)
   - **[Numpy](python/numpy)**
       * [Arrays](python/numpy/arrays)
