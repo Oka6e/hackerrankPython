@@ -41,6 +41,7 @@ https://www.hackerrank.com/frankquocho214
   - **[Math](python/math)**
       * [Find Angle MBC](python/math/find-angle-mbc)
       * [Mod Divmod](python/math/mod-divmod)
+      * [Integers Come In All Sizes](python/math/integers-come-in-all-sizes)
       * [Polar Coordinates](python/math/polar-coordinates)
       * [Power - Mod Power](python/math/power-mod-power)
       * [Triangle Quest 2](python/math/triangle-quest-2)
