@@ -38,6 +38,7 @@ https://www.hackerrank.com/frankquocho214
       * [itertools.combinations_with_replacement()](python/itertools/combinations/with-replacement)
       * [itertools.permutations()](python/itertools/permutations)
       * [itertools.product()](python/itertools/product)
+      * [Maximize It!](python/itertools/maximize-it)
   - **[Math](python/math)**
       * [Find Angle MBC](python/math/find-angle-mbc)
       * [Mod Divmod](python/math/mod-divmod)
