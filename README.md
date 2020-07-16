@@ -58,6 +58,8 @@ https://www.hackerrank.com/frankquocho214
       * [Zeros and Ones](python/numpy/zeros-and-ones)
   - **[Python Functionals](python/functionals)**
       * [Map and Lambda Function](python/functionals/map-and-lambda-function)
+  - **[Regex and Parsing](python/regex-and-parsing)**
+      * [Detect Floating Point Number](python/regex-and-parsing/detect-floating-point-number)
   - **[Sets](python/sets)**
       * [No Idea!](python/sets/no-idea)
       * [Set .add()](python/sets/add)
