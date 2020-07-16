@@ -70,6 +70,7 @@ https://www.hackerrank.com/frankquocho214
       * [Set .union() Operation](python/sets/union-operation)
       * [Set Mutations](python/sets/mutations)
       * [Symmetric Difference](python/sets/symmetric-difference)
+      * [The Captain's Room](python/sets/the-captains-room)
    - **[Strings](python/strings)**
       * [Alphabet Rangoli](python/strings/alphabet-rangoli)
       * [Capitalize!](python/strings/capitalize)
