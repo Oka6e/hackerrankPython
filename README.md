@@ -61,6 +61,7 @@ https://www.hackerrank.com/frankquocho214
   - **[Regex and Parsing](python/regex-and-parsing)**
       * [Detect Floating Point Number](python/regex-and-parsing/detect-floating-point-number)
   - **[Sets](python/sets)**
+      * [Check Strict Subset](python/sets/check-strict-subset)
       * [Check Subset](python/sets/check-subset)
       * [No Idea!](python/sets/no-idea)
       * [Set .add()](python/sets/add)
