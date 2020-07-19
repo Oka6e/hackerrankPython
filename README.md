@@ -13,6 +13,8 @@ https://www.hackerrank.com/frankquocho214
       * [Find the Runner-Up Score!](python/basic-data-types/find-the-runner-up-score)
       * [Lists](python/basic-data-types/lists)
       * [Tuples](python/basic-data-types/tuples)
+  - **[Built-Ins](python/built-ins)**
+      * [Zipped!](python/built-ins/zipped)
   - **[Classess](python/classes)**
       * [Classes: Dealing with Complex Numbers](python/classes/dealing-with-complex-numbers)
       * [Class 2 - Find the Torsional Angle](python/classes/find-the-torsional-angle)
