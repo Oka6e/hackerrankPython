@@ -43,4 +43,4 @@ The averages must be correct up to 1 decimal place.
 85.5 
 ```
 
-{**My Solution**](answer.py)
+[**My Solution**](answer.py)
