@@ -15,6 +15,7 @@ https://www.hackerrank.com/frankquocho214
       * [Tuples](python/basic-data-types/tuples)
   - **[Built-Ins](python/built-ins)**
       * [Input()](python/built-ins/input)
+      * [Python Evaluation](python/built-ins/python-evaluation)
       * [Zipped!](python/built-ins/zipped)
   - **[Classess](python/classes)**
       * [Classes: Dealing with Complex Numbers](python/classes/dealing-with-complex-numbers)
