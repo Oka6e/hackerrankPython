@@ -16,6 +16,7 @@ https://www.hackerrank.com/frankquocho214
   - **[Built-Ins](python/built-ins)**
       * [Any or All](python/built-ins/any-or-all)
       * [Athlete Sort](python/built-ins/athlete-sort)
+      * [ginortS](python/built-ins/ginortS)
       * [Input()](python/built-ins/input)
       * [Python Evaluation](python/built-ins/python-evaluation)
       * [Zipped!](python/built-ins/zipped)
