@@ -66,6 +66,7 @@ https://www.hackerrank.com/frankquocho214
   - **[Python Functionals](python/functionals)**
       * [Map and Lambda Function](python/functionals/map-and-lambda-function)
       * [Reduce Function](python/functionals/reduce-function)
+      * [Validating Email Addresses With a Filter](python/functionals/validating-email-addresses-with-a-filter)
   - **[Regex and Parsing](python/regex-and-parsing)**
       * [Detect Floating Point Number](python/regex-and-parsing/detect-floating-point-number)
       * [Re.split()](python/regex-and-parsing/re.split)
