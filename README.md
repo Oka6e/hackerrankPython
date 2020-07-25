@@ -68,6 +68,7 @@ https://www.hackerrank.com/frankquocho214
       * [Reduce Function](python/functionals/reduce-function)
   - **[Regex and Parsing](python/regex-and-parsing)**
       * [Detect Floating Point Number](python/regex-and-parsing/detect-floating-point-number)
+      * [Re.split()](python/regex-and-parsing/re.split)
   - **[Sets](python/sets)**
       * [Check Strict Superset](python/sets/check-strict-superset)
       * [Check Subset](python/sets/check-subset)
