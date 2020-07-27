@@ -69,6 +69,7 @@ https://www.hackerrank.com/frankquocho214
       * [Validating Email Addresses With a Filter](python/functionals/validating-email-addresses-with-a-filter)
   - **[Regex and Parsing](python/regex-and-parsing)**
       * [Detect Floating Point Number](python/regex-and-parsing/detect-floating-point-number)
+      * [Group(), Groups() & Groupdict()](python/regex-and-parsing/group-groups-groupdict)
       * [Re.split()](python/regex-and-parsing/re.split)
   - **[Sets](python/sets)**
       * [Check Strict Superset](python/sets/check-strict-superset)
