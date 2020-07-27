@@ -70,6 +70,7 @@ https://www.hackerrank.com/frankquocho214
   - **[Regex and Parsing](python/regex-and-parsing)**
       * [Detect Floating Point Number](python/regex-and-parsing/detect-floating-point-number)
       * [Group(), Groups() & Groupdict()](python/regex-and-parsing/group-groups-groupdict)
+      * [Re.findall() & Re.finditer()](python/regex-and-parsing/re.findall-&-re.finditer)
       * [Re.split()](python/regex-and-parsing/re.split)
   - **[Sets](python/sets)**
       * [Check Strict Superset](python/sets/check-strict-superset)
