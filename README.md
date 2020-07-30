@@ -73,6 +73,7 @@ https://www.hackerrank.com/frankquocho214
       * [Re.findall() & Re.finditer()](python/regex-and-parsing/re.findall-&-re.finditer)
       * [Re.split()](python/regex-and-parsing/re.split)
       * [Re.start() & Re.end()](python/regex-and-parsing/re.start-&-re.end)
+      * [Regex Substitution](python/regex-and-parsing/regex-substitution)
   - **[Sets](python/sets)**
       * [Check Strict Superset](python/sets/check-strict-superset)
       * [Check Subset](python/sets/check-subset)
