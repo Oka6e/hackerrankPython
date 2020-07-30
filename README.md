@@ -74,6 +74,7 @@ https://www.hackerrank.com/frankquocho214
       * [Re.split()](python/regex-and-parsing/re.split)
       * [Re.start() & Re.end()](python/regex-and-parsing/re.start-&-re.end)
       * [Regex Substitution](python/regex-and-parsing/regex-substitution)
+      * [Validating Roman Numerals](python/regex-and-parsing/validating-roman-numerals)
   - **[Sets](python/sets)**
       * [Check Strict Superset](python/sets/check-strict-superset)
       * [Check Subset](python/sets/check-subset)
