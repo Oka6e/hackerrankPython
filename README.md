@@ -74,6 +74,7 @@ https://www.hackerrank.com/frankquocho214
       * [Re.split()](python/regex-and-parsing/re.split)
       * [Re.start() & Re.end()](python/regex-and-parsing/re.start-&-re.end)
       * [Regex Substitution](python/regex-and-parsing/regex-substitution)
+      * [Validating and Parsing Email Addresses](python/regex-and-parsing/validating-and-parsing-email-addresses)
       * [Validating phone numbers](python/regex-and-parsing/validating-phone-numbers)
       * [Validating Roman Numerals](python/regex-and-parsing/validating-roman-numerals)
   - **[Sets](python/sets)**
