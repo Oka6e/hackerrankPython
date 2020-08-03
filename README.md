@@ -1,4 +1,4 @@
-# hackerrankPython
+# hackerrank_python
 
 My practice problem answers for HackerRank.
 
