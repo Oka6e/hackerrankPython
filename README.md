@@ -60,6 +60,7 @@ https://www.hackerrank.com/frankquocho214
       * [Concatenate](python/numpy/concatenate)
       * [Eye and Identity](python/numpy/eye-and-identity)
       * [Floor, Ceil and Rint](python/numpy/floor-ceil-and-rint)
+      * [Min and Max](python/numpy/min-and-max)
       * [Shape and Reshape](python/numpy/shape-and-reshape)
       * [Transpose and Flatten](python/numpy/transpose-and-flatten)
       * [Zeros and Ones](python/numpy/zeros-and-ones)
