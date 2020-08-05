@@ -72,6 +72,7 @@ https://www.hackerrank.com/frankquocho214
       * [Detect Floating Point Number](python/regex-and-parsing/detect-floating-point-number)
       * [Group(), Groups() & Groupdict()](python/regex-and-parsing/group-groups-groupdict)
       * [Hex Color Code](python/regex-and-parsing/hex-color-code)
+      * [HTML Parser - Part 1](python/regex-and-parsing/html-parser-part-1)
       * [Re.findall() & Re.finditer()](python/regex-and-parsing/re.findall-&-re.finditer)
       * [Re.split()](python/regex-and-parsing/re.split)
       * [Re.start() & Re.end()](python/regex-and-parsing/re.start-&-re.end)
