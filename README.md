@@ -70,6 +70,7 @@ https://www.hackerrank.com/frankquocho214
       * [Validating Email Addresses With a Filter](python/functionals/validating-email-addresses-with-a-filter)
   - **[Regex and Parsing](python/regex-and-parsing)**
       * [Detect Floating Point Number](python/regex-and-parsing/detect-floating-point-number)
+      * [Detect HTML Tags, Attributes and Attribute Values](python/regex-and-parsing/detect-html-tags-attributes-and-attribute-values)
       * [Group(), Groups() & Groupdict()](python/regex-and-parsing/group-groups-groupdict)
       * [Hex Color Code](python/regex-and-parsing/hex-color-code)
       * [HTML Parser - Part 1](python/regex-and-parsing/html-parser-part-1)
