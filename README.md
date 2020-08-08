@@ -23,7 +23,7 @@ https://www.hackerrank.com/frankquocho214
   * [Day 13: Abstract Classes](30-Days-of-Code/day-13-abstract-classes)
   * [Day 14: Scope](30-Days-of-Code/day-14-scope)
   * [Day 15: Linked List](30-Days-of-Code/day-15-linked-list)
-  * [Day 16: Exceptions - Strings to Integers](30-Days-of-Code/day-16-exceptions-strings-to-integers)
+  * [Day 16: Exceptions - String to Integer](30-Days-of-Code/day-16-exceptions-string-to-integer)
   * [Day 17: More Exceptions](30-Days-of-Code/day-17-more-exceptions)
   * [Day 18: Queues and Stacks](30-Days-of-Code/day-18-queues-and-stacks)
   * [Day 19: Interfaces](30-Days-of-Code/day-19-interfaces)
