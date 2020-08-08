@@ -1,23 +1,31 @@
-You are given a string  and width .
-Your task is to wrap the string into a paragraph of width .
+# Text Wrap
 
-Input Format
+https://www.hackerrank.com/challenges/text-wrap
 
-The first line contains a string, .
-The second line contains the width, .
+**Problem**
 
-Constraints
+You are given a string S and width w. 
+Your task is to wrap the string into a paragraph of width w.
 
-Output Format
+**Input Format**
+
+The first line contains a string, S. 
+The second line contains the width, w.
+
+**Output Format**
 
 Print the text wrapped paragraph.
 
-Sample Input 0
+**Sample Input 0**
 
+```
 ABCDEFGHIJKLIMNOQRSTUVWXYZ
 4
-Sample Output 0
+```
 
+**Sample Output 0**
+
+```
 ABCD
 EFGH
 IJKL
@@ -25,3 +33,6 @@ IMNO
 QRST
 UVWX
 YZ
+```
+
+[**My Solution**](answer.py)
