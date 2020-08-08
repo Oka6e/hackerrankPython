@@ -40,6 +40,7 @@ https://www.hackerrank.com/frankquocho214
 - **[Python](python)**
   - **[Basic Data Types](python/basic-data-types)**
       * [Find the Runner-Up Score!](python/basic-data-types/find-the-runner-up-score)
+      * [List Comprehensions](python/basic-data-types/list-comprehensions)
       * [Lists](python/basic-data-types/lists)
       * [Tuples](python/basic-data-types/tuples)
   - **[Built-Ins](python/built-ins)**
@@ -114,6 +115,7 @@ https://www.hackerrank.com/frankquocho214
   - **[Sets](python/sets)**
       * [Check Strict Superset](python/sets/check-strict-superset)
       * [Check Subset](python/sets/check-subset)
+      * [Introduction to Sets](python/sets/introduction-to-sets)
       * [No Idea!](python/sets/no-idea)
       * [Set .add()](python/sets/add)
       * [Set .difference() Operation](python/sets/difference-operation)
@@ -130,4 +132,8 @@ https://www.hackerrank.com/frankquocho214
       * [Designer Doormat](python/strings/designer-doormat)
       * [Merge the Tools!](python/strings/merge-the-tools)
       * [String Formatting](python/strings/string-formatting)
+      * [String Split and Join](python/strings/string-split-and-join)
+      * [String Validators](python/strings/string-validators)
+      * [sWAP cASE](python/strings/swap-case)
+      * [Text Wrap](python/strings/text-wrap)
       * [The Minion Game](python/strings/the-minion-game)
