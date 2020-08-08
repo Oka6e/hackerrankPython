@@ -7,6 +7,35 @@ My practice problem answers for HackerRank.
 https://www.hackerrank.com/frankquocho214
 
 - **[30 Days of Code](30-Days-of-Code)**
+  * [Day 0: Hello, World.](30-Days-of-Code/day-0-hello-world)
+  * [Day 1: Data Types](30-Days-of-Code/day-1-data-types)
+  * [Day 2: Operators](30-Days-of-Code/day-2-operators)
+  * [Day 3: Intro to Conditional Statements](30-Days-of-Code/day-3-intro-to-conditional-statements)
+  * [Day 4: Class vs. Instance](30-Days-of-Code/day-4-class-vs-instance)
+  * [Day 5: Loops](30-Days-of-Code/day-5-loops)
+  * [Day 6: Let's Review](30-Days-of-Code/day-6-lets-review)
+  * [Day 7: Arrays](30-Days-of-Code/day-7-arrays)
+  * [Day 8: Dictionaries and Maps](30-Days-of-Code/day-8-dictionaries-and-maps)
+  * [Day 9: Recursion 3](30-Days-of-Code/day-9-recursion-3)
+  * [Day 10: Binary Numbers](30-Days-of-Code/day-10-binary-numbers)
+  * [Day 11: 2D Arrays](30-Days-of-Code/day-11-2d-arrays)
+  * [Day 12: Inheritance](30-Days-of-Code/day-12-inheritance)
+  * [Day 13: Abstract Classes](30-Days-of-Code/day-13-abstract-classes)
+  * [Day 14: Scope](30-Days-of-Code/day-14-scope)
+  * [Day 15: Linked List](30-Days-of-Code/day-15-linked-list)
+  * [Day 16: Exceptions - Strings to Integers](30-Days-of-Code/day-16-exceptions-strings-to-integers)
+  * [Day 17: More Exceptions](30-Days-of-Code/day-17-more-exceptions)
+  * [Day 18: Queues and Stacks](30-Days-of-Code/day-18-queues-and-stacks)
+  * [Day 19: Interfaces](30-Days-of-Code/day-19-interfaces)
+  * [Day 20: Sorting](30-Days-of-Code/day-20-sorting)
+  * Day 21: Generics - Problem cannot be done in Python
+  * [Day 22: Binary Search Trees](30-Days-of-Code/day-22-binary-search-trees)
+  * [Day 23: BST Level-Order Traversal](30-Days-of-Code/day-23-bst-level-order-traversal)
+  * [Day 24: More Linked Lists](30-Days-of-Code/day-24-more-linked-lists)
+  * [Day 25: Running Time and Complexity](30-Days-of-Code/day-25-running-time-and-complexity)
+  * [Day 26: Nested Logic](30-Days-of-Code/day-26-nested-logic)
+  * [Day 27: Testing](30-Days-of-Code/day-28-testing) 
+  * [Day 28: RegEx, Patterns, and Intro to Databases](30-Days-of-Code/day-28-regex-patterns-and-intro-to-databases)                                                    
   * [Day 29: Bitwise AND](30-Days-of-Code/day-29-bitwise-and)
 - **[Python](python)**
   - **[Basic Data Types](python/basic-data-types)**

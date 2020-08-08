@@ -1,44 +1,38 @@
-# Day-25
-HackerRank's 30 Days of Code
+# Day 25: Running Time and Complexity
 
+https://www.hackerrank.com/challenges/30-running-time-and-complexity
 
-Objective
-Today we're learning about running time! Check out the Tutorial tab for learning materials and an instructional video!
+**Problem**
 
-Task
-A prime is a natural number greater than  that has no positive divisors other than  and itself. Given a number, , determine and print whether it's  or .
+Today we're learning about running time!  
 
-Note: If possible, try to come up with a  primality algorithm, or see what sort of optimizations you come up with for an  algorithm. Be sure to check out the Editorial after submitting your code!
+**Task**
 
-Input Format
+A prime is a natural number greater than 1 that has no positive divisors other than 1 and itself. Given a number, n, determine and print whether it's Prime or Not Prime.
 
-The first line contains an integer, , the number of test cases.
-Each of the  subsequent lines contains an integer, , to be tested for primality.
+**Input Format**
 
-Constraints
+The first line contains an integer, T, the number of test cases.  
+Each of the T subsequent lines contains an integer, n, to be tested for primality.
 
-Output Format
+**Output Format**
 
-For each test case, print whether  is  or  on a new line.
+For each test case, print whether n is Prime or Not Prime on a new line.
 
-Sample Input
+**Sample Input**
 
+```
 3
 12
 5
 7
-Sample Output
+```
 
+**Sample Output**
+
+```
 Not prime
 Prime
 Prime
-Explanation
-
-Test Case 0: .
- is divisible by numbers other than  and itself (i.e.: , , ), so we print  on a new line.
-
-Test Case 1: .
- is only divisible  and itself, so we print  on a new line.
-
-Test Case 2: .
- is only divisible  and itself, so we print  on a new line.
+```
+[**My Solution**](answer.py)

@@ -1,40 +1,60 @@
-Objective
-Today, we're working with Binary Search Trees (BSTs). Check out the Tutorial tab for learning materials and an instructional video!
+# Day 20: Sorting
 
-Task
-The height of a binary search tree is the number of edges between the tree's root and its furthest leaf. You are given a pointer, , pointing to the root of a binary search tree. Complete the getHeight function provided in your editor so that it returns the height of the binary search tree.
+https://www.hackerrank.com/challenges/30-sorting
 
-Input Format
+**Problem**
 
-The locked stub code in your editor reads the following inputs and assembles them into a binary search tree:
-The first line contains an integer, , denoting the number of nodes in the tree.
-Each of the  subsequent lines contains an integer, , denoting the value of an element that must be added to the BST.
+**Objective**  
 
-Output Format
+Today, we're discussing a simple sorting algorithm called Bubble Sort.
 
-The locked stub code in your editor will print the integer returned by your getHeight function denoting the height of the BST.
+**Task**
 
-Sample Input
+Given an array, a, of size n distinct elements, sort the array in ascending order using the Bubble Sort algorithm above. 
 
-7
+Hint: To complete this challenge, you will need to add a variable that keeps a running tally of all swaps that occur during execution.
+
+**Input Format**
+
+The first line contains an integer, n, denoting the number of elements in array a.
+The second line contains n space-separated integers describing the respective values of a0, a1,...,an-1.
+
+**Output Format**
+
+Print the following three lines of output:
+
+1. Array is sorted in numSwaps swaps, where numSwaps is the number of swaps that took place.
+2. First Element: firstElement, where firstElement is the first element in the sorted array.
+3. Last Element: lastElement, where lastElement is the last element in the sorted array.
+
+**Sample Input 0**
+
+```
 3
-5
-2
-1
-4
-6
-7
-Sample Output
+1 2 3
+```
 
+**Sample Output 0**
+
+```
+Array is sorted in 0 swaps.
+First Element: 1
+Last Element: 3
+```
+
+**Sample Input 1**
+
+```
 3
-Explanation
+3 2 1
+```
 
-The input forms the following BST:
+**Sample Output 1**
 
-BST.png
+```
+Array is sorted in 3 swaps.
+First Element: 1
+Last Element: 3
+```
 
-The longest root-to-leaf path is shown below:
-
-Longest RTL.png
-
-There are  nodes in this path that are connected by  edges, meaning our BST's . Thus, we print  as our answer.
+[**My Solution**](answer.py)
