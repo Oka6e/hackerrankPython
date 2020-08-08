@@ -34,7 +34,7 @@ https://www.hackerrank.com/frankquocho214
   * [Day 24: More Linked Lists](30-Days-of-Code/day-24-more-linked-lists)
   * [Day 25: Running Time and Complexity](30-Days-of-Code/day-25-running-time-and-complexity)
   * [Day 26: Nested Logic](30-Days-of-Code/day-26-nested-logic)
-  * [Day 27: Testing](30-Days-of-Code/day-28-testing) 
+  * [Day 27: Testing](30-Days-of-Code/day-27-testing) 
   * [Day 28: RegEx, Patterns, and Intro to Databases](30-Days-of-Code/day-28-regex-patterns-and-intro-to-databases)                                                    
   * [Day 29: Bitwise AND](30-Days-of-Code/day-29-bitwise-and)
 - **[Python](python)**
