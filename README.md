@@ -113,7 +113,7 @@ https://www.hackerrank.com/frankquocho214
       * [Validating and Parsing Email Addresses](python/regex-and-parsing/validating-and-parsing-email-addresses)
       * [Validating phone numbers](python/regex-and-parsing/validating-phone-numbers)
       * [Validating Roman Numerals](python/regex-and-parsing/validating-roman-numerals)
-      * [Validating UID](python/regex-and-parsing/validating-UID)
+      * [Validating UID](python/regex-and-parsing/validating-uid)
   - **[Sets](python/sets)**
       * [Check Strict Superset](python/sets/check-strict-superset)
       * [Check Subset](python/sets/check-subset)
