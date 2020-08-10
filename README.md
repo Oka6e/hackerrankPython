@@ -88,6 +88,7 @@ https://www.hackerrank.com/frankquocho214
       * [Arrays](python/numpy/arrays)
       * [Array Mathematics](python/numpy/array-mathematics)
       * [Concatenate](python/numpy/concatenate)
+      * [Dot and Cross](python/numpy/dot-and-cross)
       * [Eye and Identity](python/numpy/eye-and-identity)
       * [Floor, Ceil and Rint](python/numpy/floor-ceil-and-rint)
       * [Mean, Var, and Std](python/numpy/mean-var-and-std)
