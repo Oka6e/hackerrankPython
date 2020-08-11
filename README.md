@@ -91,6 +91,7 @@ https://www.hackerrank.com/frankquocho214
       * [Dot and Cross](python/numpy/dot-and-cross)
       * [Eye and Identity](python/numpy/eye-and-identity)
       * [Floor, Ceil and Rint](python/numpy/floor-ceil-and-rint)
+      * [Inner and Outer](python/numpy/inner-and-outer)
       * [Mean, Var, and Std](python/numpy/mean-var-and-std)
       * [Min and Max](python/numpy/min-and-max)
       * [Shape and Reshape](python/numpy/shape-and-reshape)
