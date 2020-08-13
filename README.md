@@ -94,6 +94,7 @@ https://www.hackerrank.com/frankquocho214
       * [Inner and Outer](python/numpy/inner-and-outer)
       * [Mean, Var, and Std](python/numpy/mean-var-and-std)
       * [Min and Max](python/numpy/min-and-max)
+      * [Polynomials](python/numpy/polynomials)
       * [Shape and Reshape](python/numpy/shape-and-reshape)
       * [Transpose and Flatten](python/numpy/transpose-and-flatten)
       * [Zeros and Ones](python/numpy/zeros-and-ones)
