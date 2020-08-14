@@ -92,6 +92,7 @@ https://www.hackerrank.com/frankquocho214
       * [Eye and Identity](python/numpy/eye-and-identity)
       * [Floor, Ceil and Rint](python/numpy/floor-ceil-and-rint)
       * [Inner and Outer](python/numpy/inner-and-outer)
+      * [Linear Algebra](python/numpy/linear-algebra)
       * [Mean, Var, and Std](python/numpy/mean-var-and-std)
       * [Min and Max](python/numpy/min-and-max)
       * [Polynomials](python/numpy/polynomials)
