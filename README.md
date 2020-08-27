@@ -97,6 +97,7 @@ https://www.hackerrank.com/frankquocho214
       * [Min and Max](python/numpy/min-and-max)
       * [Polynomials](python/numpy/polynomials)
       * [Shape and Reshape](python/numpy/shape-and-reshape)
+      * [Sum and Prod](python/numpy/sum-and-prod)
       * [Transpose and Flatten](python/numpy/transpose-and-flatten)
       * [Zeros and Ones](python/numpy/zeros-and-ones)
   - **[Python Functionals](python/functionals)**
