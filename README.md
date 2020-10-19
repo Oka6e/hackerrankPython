@@ -145,5 +145,7 @@ https://www.hackerrank.com/frankquocho214
       * [Text Wrap](python/strings/text-wrap)
       * [The Minion Game](python/strings/the-minion-game)
 - **[Interview Preparation Kit](interview-preparation-kit)**
+  - **[Warm-up Challenges](interview-preparation-kit/warm-up)**
+      * [Sales by Match](interview-preparation-kit/warm-up/sales-by-match)
   - **[Arrays](interview-preparation-kit/arrays)**
       * [Minimum Swaps 2](interview-preparation-kit/arrays/minimum-swaps-2)
