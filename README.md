@@ -144,3 +144,6 @@ https://www.hackerrank.com/frankquocho214
       * [sWAP cASE](python/strings/swap-case)
       * [Text Wrap](python/strings/text-wrap)
       * [The Minion Game](python/strings/the-minion-game)
+- **[Interview Preparation Kit](interview-preparation-kit)**
+  - **[Arrays](interview-preparation-kit/arrays)**
+      * [Minimum Swaps 2](interview-preparation-kit/arrays/minimum-swaps-2)
