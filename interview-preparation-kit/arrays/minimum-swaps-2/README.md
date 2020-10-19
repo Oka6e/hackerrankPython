@@ -50,6 +50,4 @@ Return the minimum number of swaps to sort the given array.
 3
 ```
 
-### My Solution
-
-- [Python](python.py)
+### [My Solution](answer.py)
