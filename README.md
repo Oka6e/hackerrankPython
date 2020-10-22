@@ -148,6 +148,7 @@ https://www.hackerrank.com/frankquocho214
   - **[Warm-up Challenges](interview-preparation-kit/warm-up)**
       * [Counting Valleys](interview-preparation-kit/warm-up/counting-valleys)
       * [Jumping on the Clouds](interview-preparation-kit/warm-up/jumping-on-the-clouds)
+      * [Repeated String](interview-preparation-kit/warm-up/repeated-string)
       * [Sales by Match](interview-preparation-kit/warm-up/sales-by-match)
   - **[Arrays](interview-preparation-kit/arrays)**
       * [Minimum Swaps 2](interview-preparation-kit/arrays/minimum-swaps-2)
