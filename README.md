@@ -151,4 +151,5 @@ https://www.hackerrank.com/frankquocho214
       * [Repeated String](interview-preparation-kit/warm-up/repeated-string)
       * [Sales by Match](interview-preparation-kit/warm-up/sales-by-match)
   - **[Arrays](interview-preparation-kit/arrays)**
+      * [2D Array](interview-preparation-kit/arrays/2d-array)
       * [Minimum Swaps 2](interview-preparation-kit/arrays/minimum-swaps-2)
