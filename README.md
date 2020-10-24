@@ -152,4 +152,5 @@ https://www.hackerrank.com/frankquocho214
       * [Sales by Match](interview-preparation-kit/warm-up/sales-by-match)
   - **[Arrays](interview-preparation-kit/arrays)**
       * [2D Array](interview-preparation-kit/arrays/2d-array)
+      * [Left Rotation](interview-preparation-kit/arrays/left-rotation)
       * [Minimum Swaps 2](interview-preparation-kit/arrays/minimum-swaps-2)
