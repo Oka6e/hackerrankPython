@@ -157,4 +157,4 @@ https://www.hackerrank.com/frankquocho214
       * [New Year Chaos](interview-preparation-kit/arrays/new-year-chaos)
   - **[Dictionaries and Hashmaps(interview-preparation-kit/dictionaries-and-hashmaps)**
       * [Hash Tables: Ransom Note](interview-preparation-kit/dictionaries-and-hashmaps/hash-table-random-note)
-      
+      * [Two Strings](interview-preparation-kit/dictionaries-and-hashmaps/two-strings)
