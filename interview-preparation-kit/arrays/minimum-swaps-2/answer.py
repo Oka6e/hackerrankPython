@@ -8,14 +8,20 @@ import sys
 
 # Complete the minimumSwaps function below.
 def minimumSwaps(arr):
-    count = 0
+    ordered_arr = sorted(arr)
+    swaps = 0
+    arr_idc = {val:ind for ind, val in enumerate(arr)}
     for i in range(len(arr)):
-        while arr[i] != i+1:
-            correct = arr[i]-1
-            arr[correct], arr[i] = arr[i], arr[correct]
-            count += 1
-    return count
-
+        if arr[i] != ordered_arr[i]:
+            corr_val_ind = arr_idc[ordered_arr[i]]
+            # swap the values in the original array
+            arr[i], arr[corr_val_ind] = arr[corr_val_ind], arr[i] 
+            swaps += 1
+            # update the current index locations of the swapped values
+            arr_idc[arr[i]] = i
+            arr_idc[arr[corr_val_ind]] = corr_val_ind
+    return swaps
+    
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')
 
