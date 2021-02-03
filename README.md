@@ -159,4 +159,5 @@ https://www.hackerrank.com/frankquocho214
       * [Hash Tables: Ransom Note](interview-preparation-kit/dictionaries-and-hashmaps/hash-table-random-note)
       * [Two Strings](interview-preparation-kit/dictionaries-and-hashmaps/two-strings)
   - **[Sorting](interview-preparation-kit/sorting)**
-      * [Sorting: Bubble Sort](interview-preparation-kit/sorting/bubble-sort)
+      * [Bubble Sort](interview-preparation-kit/sorting/bubble-sort)
+      * [Mark and Toyst](interview-preparation-kit/sorting/mark-and-toys)
