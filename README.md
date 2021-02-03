@@ -160,4 +160,4 @@ https://www.hackerrank.com/frankquocho214
       * [Two Strings](interview-preparation-kit/dictionaries-and-hashmaps/two-strings)
   - **[Sorting](interview-preparation-kit/sorting)**
       * [Bubble Sort](interview-preparation-kit/sorting/bubble-sort)
-      * [Mark and Toyst](interview-preparation-kit/sorting/mark-and-toys)
+      * [Mark and Toys](interview-preparation-kit/sorting/mark-and-toys)
